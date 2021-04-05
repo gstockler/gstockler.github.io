@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriela Stockler</title>
+    <link>/author/gabriela-stockler/</link>
+      <atom:link href="/author/gabriela-stockler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriela Stockler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/gabriela-stockler/avatar_hu04e8ff30fdd22532e3ff7baf582a8e02_57119_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Gabriela Stockler</title>
+      <link>/author/gabriela-stockler/</link>
+    </image>
+    
+    <item>
+      <title>Trading Venues over Networks - Centralized versus Decentralized Financial Markets</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
