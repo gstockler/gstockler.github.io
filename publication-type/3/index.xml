@@ -5,7 +5,7 @@
     <link>/publication-type/3/</link>
       <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Asset Issuance Price and Networks of Secondary Markets</title>
+      <title>Asset Pricing and Re-sale in Networks</title>
       <link>/publication/preprint/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/publication/preprint/</guid>
       <description></description>
     </item>
@@ -33,6 +33,14 @@
       <link>/publication/wpmridula/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/publication/wpmridula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Beliefs and Stock Price Booms and Busts</title>
+      <link>/publication/wpme/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/wpme/</guid>
       <description></description>
     </item>
     
