@@ -47,6 +47,9 @@
     <loc>/publication/wp1/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/landing/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -67,11 +70,19 @@
   </url><url>
     <loc>/admin/</loc>
   </url><url>
+    <loc>/cv/</loc>
+  </url><url>
+    <loc>/papers/</loc>
+  </url><url>
     <loc>/authors/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/contact.page/</loc>
+  </url><url>
     <loc>/author/gabriela-stockler/</loc>
+  </url><url>
+    <loc>/ta/</loc>
   </url><url>
     <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
