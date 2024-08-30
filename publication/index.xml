@@ -5,20 +5,12 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Research</title>
       <link>/publication/</link>
     </image>
-    
-    <item>
-      <title>Asset Pricing and Re-sale in Networks</title>
-      <link>/publication/gs_jmp/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/gs_jmp/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Asset Pricing and Information on Social Networks</title>
