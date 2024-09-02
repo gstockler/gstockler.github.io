@@ -69,7 +69,7 @@
   </url><url>
     <loc>/author/</loc>
   </url><url>
-    <loc>/cv/</loc>
+    <loc>/cv_page/</loc>
   </url><url>
     <loc>/googled3aca999daf1ac87/</loc>
     <priority>0</priority>
@@ -81,6 +81,8 @@
     <loc>/categories/</loc>
   </url><url>
     <loc>/contact.page/</loc>
+  </url><url>
+    <loc>/running/</loc>
   </url><url>
     <loc>/ta/</loc>
   </url><url>
