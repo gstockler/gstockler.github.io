@@ -3,6 +3,7 @@ project:
 
 website:
   title: "my_quarto_website"
+  site-url: "https://gstockler.github.io/gstockler-quarto-preview/"
   navbar:
     left:
       - href: index.qmd
