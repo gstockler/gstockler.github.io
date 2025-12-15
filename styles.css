@@ -1,0 +1,66 @@
+/* css styles */
+
+body {
+  font-size: 16.5px;
+  line-height: 1.65;
+}
+
+
+.paper-link {
+  font-size: 0.9em;
+  padding: 0.2rem 0.45rem;
+  border: 1px solid #6c757d;   /* muted gray-blue */
+  border-radius: 4px;
+  color: #495057;              /* dark gray text */
+  text-decoration: none;
+}
+
+.paper-link:hover {
+  background-color: #f1f3f5;
+  color: #212529;
+  text-decoration: none;
+}
+
+/* ===== Homepage hero layout ===== */
+
+.home-hero {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 2rem;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.profile-pic {
+  width: 180px;
+  border-radius: 8px;
+}
+
+.home-text h2 {
+  margin-top: 0;
+}
+
+/* Mobile: stack nicely */
+@media (max-width: 800px) {
+  .home-hero {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .profile-pic {
+    margin: 0 auto;
+  }
+}
+
+/* ===== Homepage contact separation ===== */
+
+.contact-block {
+  margin-top: 1.8rem;   /* space from bio text */
+  padding-top: 0.6rem;
+}
+
+.contact-block hr {
+  margin: 0 0 1rem 0;
+  border: none;
+  border-top: 1px solid rgba(0,0,0,0.15);
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Bank Opacity and Deposit Rates with Ana Babus and Maryam Farboodi PDF\n\n\nAbstract\n\nWe propose a novel mechanism for why bank portfolios are opaque: banks choose opacity to secure cheaper long-term funding while trading off insolvency and illiquidity risks. We show that while opacity lowers deposit rates, it also leaves depositors with only noisy information about the bank’s solvency, making them cautious about keeping their funds in the bank—particularly when interest rates are high. Counterintuitively, opacity raises bank profits even though it forces the bank to tolerate a high risk of illiquidity. As a result, in high-rate environments, banks have stronger incentives to adopt excessive opacity to further reduce deposit rates—at the cost of more frequent early failures.\n\nPeer Effects in Multi-Layer Networks: Evidence from Financial Behavior with Olga Balakina SSRN\n\n\nAbstract\n\nWe provide evidence of how multiple social groups jointly influence financial behavior, focusing on buying and selling decisions across stocks and mutual funds. Using Danish administrative data, we construct a three-layer social network—co-workers, family, and neighbors—for each individual and estimate their simultaneous effects. Peer effects are positive, heterogeneous, and behavior-specific. Neighbors exert the strongest influence, followed by co-workers and family. Effects are larger for stocks than for mutual funds, and among wealthier and less financially sophisticated investors. Co-workers primarily affect buying, while neighbors influence both buying and selling - pointing to distinct channels of influence across peer groups. To interpret these results, we develop a simple multi-layer network model. Our findings underscore the importance of social structure in shaping distinct dimensions of financial behavior.\n\nAsset Pricing and Re-sale in Networks PDF\n\n\nAbstract\n\nI study asset pricing when re-trade can take place in co-existing and interconnected markets. In my framework, there is a divisible asset and a finite set of traders. They are distributed over a trading network. Traders can acquire shares at a common price, and then they may trade with their connections at possibly different prices. I find that trading centrality, a novel network metric, is a sufficient statistic for the equilibrium. Trading centrality processes information about expected re-trade equilibria, and maps it to traders’ behavior before trade. A trader’s asset acquisition is proportional to his centrality, and the asset common price is defined by aggregating centrality globally. For the re-trades in the network, a trader demands the gap between his optimal level of asset and his centrality; while each price is defined by aggregating centrality locally in the seller’s network. I investigate what market outcomes and welfare arise at different trading networks. Implications for asset issuance and interdealer markets are examined.\n\nSocial Beliefs and Stock Price Booms and Busts"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Bank Opacity and Deposit Rates with Ana Babus and Maryam Farboodi PDF\n\n\nAbstract\n\nWe propose a novel mechanism for why bank portfolios are opaque: banks choose opacity to secure cheaper long-term funding while trading off insolvency and illiquidity risks. We show that while opacity lowers deposit rates, it also leaves depositors with only noisy information about the bank’s solvency, making them cautious about keeping their funds in the bank—particularly when interest rates are high. Counterintuitively, opacity raises bank profits even though it forces the bank to tolerate a high risk of illiquidity. As a result, in high-rate environments, banks have stronger incentives to adopt excessive opacity to further reduce deposit rates—at the cost of more frequent early failures.\n\nPeer Effects in Multi-Layer Networks: Evidence from Financial Behavior with Olga Balakina SSRN\n\n\nAbstract\n\nWe provide evidence of how multiple social groups jointly influence financial behavior, focusing on buying and selling decisions across stocks and mutual funds. Using Danish administrative data, we construct a three-layer social network—co-workers, family, and neighbors—for each individual and estimate their simultaneous effects. Peer effects are positive, heterogeneous, and behavior-specific. Neighbors exert the strongest influence, followed by co-workers and family. Effects are larger for stocks than for mutual funds, and among wealthier and less financially sophisticated investors. Co-workers primarily affect buying, while neighbors influence both buying and selling - pointing to distinct channels of influence across peer groups. To interpret these results, we develop a simple multi-layer network model. Our findings underscore the importance of social structure in shaping distinct dimensions of financial behavior.\n\nAsset Pricing and Re-sale in Networks PDF\n\n\nAbstract\n\nI study asset pricing when re-trade can take place in co-existing and interconnected markets. In my framework, there is a divisible asset and a finite set of traders. They are distributed over a trading network. Traders can acquire shares at a common price, and then they may trade with their connections at possibly different prices. I find that trading centrality, a novel network metric, is a sufficient statistic for the equilibrium. Trading centrality processes information about expected re-trade equilibria, and maps it to traders’ behavior before trade. A trader’s asset acquisition is proportional to his centrality, and the asset common price is defined by aggregating centrality globally. For the re-trades in the network, a trader demands the gap between his optimal level of asset and his centrality; while each price is defined by aggregating centrality locally in the seller’s network. I investigate what market outcomes and welfare arise at different trading networks. Implications for asset issuance and interdealer markets are examined.\n\nSocial Beliefs and Stock Price Booms and Busts"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in progress",
+    "text": "Work in progress\nAsset Pricing and Information on Social Networks with Victoria Vanasco"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Gabriela Stockler",
+    "section": "",
+    "text": "You can find my CV here"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: your.email@upf.edu\nAffiliation: Universitat Pompeu Fabra / Barcelona School of Economics\nGitHub: gstockler"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gabriela Stockler",
+    "section": "",
+    "text": "I am an Assistant Professor at Universitat Pompeu Fabra, afilliated with the Barcelona School of Economics (BSE), as of Fall 2024.\nMy research interests are networks, financial economics and applied microeconomic theory."
+  },
+  {
+    "objectID": "index.html#hi",
+    "href": "index.html#hi",
+    "title": "Gabriela Stockler",
+    "section": "",
+    "text": "I am an Assistant Professor at Universitat Pompeu Fabra, afilliated with the Barcelona School of Economics (BSE), as of Fall 2024.\nMy research interests are networks, financial economics and applied microeconomic theory."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "International Financial Economics (UG)\nMath for Finance (UG)"
+  },
+  {
+    "objectID": "teaching.html#universitat-pompeu-fabra",
+    "href": "teaching.html#universitat-pompeu-fabra",
+    "title": "Teaching",
+    "section": "",
+    "text": "International Financial Economics (UG)\nMath for Finance (UG)"
+  },
+  {
+    "objectID": "teaching.html#materials",
+    "href": "teaching.html#materials",
+    "title": "Teaching",
+    "section": "Materials",
+    "text": "Materials\n\nSyllabi\nProblem sets\nSlides"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
