@@ -1,13 +1,24 @@
+<div class="home-hero">
+
+<img src="images/profile.jpg" class="profile-pic">
+
+<div class="home-text">
+
+## Hi!
+
+I am an Assistant Professor at [Universitat Pompeu Fabra](https://www.upf.edu/), afilliated with the [Barcelona School of Economics (BSE)](https://bse.eu/), as of Fall 2024.
+
+My research interests are ***networks*****, *financial economics* and *applied microeconomic theory***.
+
+
+</div>
+
+</div>
+
+<div class="contact-block">
+
 ---
-title: "my_quarto_website"
----
 
-This is a Quarto website.
+Email: stockler.gab@gmail.com
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-<https://github.com/gstockler>
+</div>

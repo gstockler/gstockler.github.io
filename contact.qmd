@@ -1,0 +1,7 @@
+---
+title: Contact
+---
+
+Email: **your.email@upf.edu**  
+Affiliation: Universitat Pompeu Fabra / Barcelona School of Economics  
+GitHub: gstockler
