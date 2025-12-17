@@ -16,8 +16,8 @@ website:
       - text: CV
         href: files/CV_2024.pdf
         target: _blank
-      # - href: contact.qmd
-      #   text: Contact
+      - href: running.qmd
+        text: Running
 
 format:
   html:
