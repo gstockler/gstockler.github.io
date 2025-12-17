@@ -3,7 +3,6 @@ project:
 
 website:
   title: "Gabriela Stockler"
-  # site-url: "https://gstockler.github.io/gstockler-quarto-preview/"
   site-url: "https://gstockler.github.io/"
   navbar:
     left:
